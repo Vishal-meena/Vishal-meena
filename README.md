@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Machine learning, AI and Brain Research - Signal Analysis <br>👯 I’m looking to collaborate on: Projects related to LLM, R&D Project <br>🌱 I’m currently learning: Large Language  Models<br>💬 Ask me about: Machine Learning, neural networks, large language models, Brain Research .<br>⚡ Fun fact: ........
+🔭 I’m currently working on: Machine learning, AI and Brain Research - Signal Analysis <br>👯 I’m looking to collaborate on: Projects related to LLM, R&D Project <br>🌱 I’m currently learning: Large Language  Models, MultiModel LLMs, LoRA Continue..<br>💬 Ask me about: Machine Learning, neural networks, large language models, Brain Research .<br>⚡ Fun fact: ____________ Are Jane bhi do Yaar!!!!😎☠
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishu-meena/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://www.linkedin.com/in/vishu-meena/)
